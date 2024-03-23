@@ -1,0 +1,7 @@
+echo "# iso.json" >> README.md 
+git init 
+git add README.md 
+git commit -m "israfil_ak_" 
+git Branch -M main 
+git uzaktan add Origin https://github.com/0282492/Sonunda-.git
+ git push -u orijini ana
